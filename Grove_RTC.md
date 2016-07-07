@@ -158,7 +158,7 @@ sudo python grove_i2c_rtc.py
 
 6.Result
 
-[picture]()
+![picture](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/images/Grovepi_i2c_rtc_00.png)
 
 7.Use this demo to show the time in common
 
@@ -306,14 +306,16 @@ sudo python grove_rtc.py
 
 10.Result
 
-[picture]()
+![picture](https://raw.githubusercontent.com/SeeedDocument/Grove-RTC/master/images/Grovepi_i2c_rtc_01.png)
 
 
 ##Resources
 
-* **【PDF】**[Schmatics](https://github.com/SeeedDocument/CAN_BUS_Shield/raw/master/resource/CAN-BUS_Shield_v1.2.pdf)
-* **【Datasheet】**[DSE-CN3065](https://github.com/SeeedDocument/Lipo_Rider_Pro/blob/master/resource/DSE-CN3065.pdf) 
-* **【Eagle】**[Eagle File](https://github.com/SeeedDocument/Lipo_Rider_Pro/blob/master/resource/Lipo_Rider_Pro_v0.9b.rar)
+- [Real Time Clock Eagle File.zip](https://github.com/SeeedDocument/Grove-RTC/blob/master/resource/Real_Time_Clock.zip)
+- [GitHub repository for RTC](https://github.com/Seeed-Studio/RTC_DS1307)
+- [DS1307 datasheet](https://github.com/SeeedDocument/Grove-RTC/blob/master/resource/DS1307.pdf)
+
+
 
 ##Is this page helpful
 <iframe style="height: 600px; width: 500px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/XQ3MFQW" frameborder="0"></iframe>
